@@ -13,6 +13,7 @@ docker-compose build --no-cache && docker-compose up -d
 ```
 
 ### backend
-
+接続先：http://localhost:3000/
 
 ### frontend
+接続先：http://localhost:8000/
